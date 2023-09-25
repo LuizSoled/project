@@ -83,6 +83,7 @@ main section {
 
 img.image-game {
     width: 300px;
+    border-radius: 10px;
 }
 
 .container-section a {
